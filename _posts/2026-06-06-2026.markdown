@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Weekly Update 2: Professional Development CU Boulder"
+date:   2026-06-06 16:27:00
+categories: blog post
+---
+
+    What did you do last week?
+    What do you plan to do this week?
+    Are there any impediments in your way?
+    Reflection on the process you used last week, how can you make the process work better?
+
+Project Setup and Tool Familiarization
+
+This past week I finalized the project for the course, which is an graph algorithm visualiztion tool as well as a learning series for BFS, DFS, Topological Sort, and Dijkstra's Shortest Path. I narrowed the project scope to graph algorithms because they are highly visual and are often some of the more challenging algorithms to understand.
+
+I also spent time finishing setting up my personal website to include a projects page to showcase the various projects I've worked on. I also created a blog page to post weekly updates for this course and other posts in the future.
+
+I also plan to create a small test graph and use it to experiment with basic graph rendering. This will help me get comfortable with representing nodes, edges, labels, weights, and visual changes over time. Before implementing full algorithms, I want to make sure I understand how the visualization layer will work.
+
+Impediments: No major impediments this week. The biggest challenge is choosing the right tools without spending too much time comparing options. 
+
+Reflection: Narrowing the project scope has made the project feel much more manageable, I also am excited to dive into the learning series aspect of the project as I think it will be a great way to solidify my understanding of the algorithms while also creating something that can be shared with others. I want to make sure I set clear milestones and deadlines for myself to stay on track and make consistent progress week by week. Next week I begin working on BFS Review and Learning Series draft!
