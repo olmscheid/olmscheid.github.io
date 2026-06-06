@@ -9,7 +9,7 @@ A collection of projects I’ve built while studying computer science, software 
 <div class="project-grid">
 
 <div class="project-card">
-<h3>GraphLens</h3>
+<h3>Algorithm Visualizer</h3>
 <p><strong>Technologies:</strong> Python, NetworkX, PyVis, Matplotlib</p>
 <p>Interactive graph algorithm visualizer focused on BFS, DFS, Topological Sort, Dijkstra’s Shortest Path, and Kruskal’s Minimum Spanning Tree.</p>
 </div>
