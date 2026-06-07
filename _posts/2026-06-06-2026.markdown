@@ -15,8 +15,18 @@ Project Setup and Tool Familiarization
 This past week I finalized the project for the course, which is an graph algorithm visualiztion tool as well as a learning series for BFS, DFS, Topological Sort, and Dijkstra's Shortest Path. I narrowed the project scope to graph algorithms because they are highly visual and are often some of the more challenging algorithms to understand.
 
 I also spent time finishing setting up my personal website to include a projects page to showcase the various projects I've worked on. I also created a blog page to post weekly updates for this course and other posts in the future.
+I spent some time looking at the various libraries that I’m going to use for the project and also went over some basic graph refreshers. My timeline for the project is below:
 
-I also plan to create a small test graph and use it to experiment with basic graph rendering. This will help me get comfortable with representing nodes, edges, labels, weights, and visual changes over time. Before implementing full algorithms, I want to make sure I understand how the visualization layer will work.
+Week	Task
+6/1	Project Setup and Tool Familiarization
+6/8	BFS Review and Learning Series Draft
+6/15	BFS Visualization Prototype
+6/22	DFS Review and Learning Series Draft
+6/29	DFS Visualization Prototype
+7/6	Dijkstra’s Algorithm Learning Series
+7/13	Topological Sort Learning Series
+7/20	Integration, Cleanup, and Portfolio Preparation
+7/27	Final Testing, Reflection, and Submission
 
 Impediments: No major impediments this week. The biggest challenge is choosing the right tools without spending too much time comparing options. 
 
