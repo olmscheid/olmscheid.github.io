@@ -28,6 +28,7 @@ github_username:  olmscheid
 
 header_pages:
   - about.markdown
+  - learning.markdown
   - projects.markdown
   - blog.markdown
 
