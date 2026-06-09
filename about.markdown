@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## About Me
-
 I’m a computer science student in CU Boulder’s Applied Computer Science post-baccalaureate program, where I’m building a stronger foundation in programming, data structures, algorithms, and software development.
 
 This site is a place for me to document what I’m learning, share projects, and track my progress as I continue developing my technical skills. My current interests include algorithms, graph visualization, Python, data science, and applied AI tools.

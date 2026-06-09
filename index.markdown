@@ -6,7 +6,7 @@ permalink: /
 
 # Welcome
 
-Hi, I’m Mark Olmscheid. I’m currently studying Applied Computer Science through CU Boulder while building projects that I find interesting. This is a public site to document my learning, share projects, and explore technical topics that I find interesting.
+Hi, I’m Mark Olmscheid. I’m currently studying Computer Science through CU Boulder. This is a public site to document my learning, share projects, and explore technical topics that I find interesting.
 
 ## Current Focus
 
