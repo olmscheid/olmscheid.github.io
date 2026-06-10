@@ -11,7 +11,7 @@ A collection of projects I’ve built while studying computer science, software 
 <div class="project-card">
 <h3>Algorithm Visualizer</h3>
 <p><strong>Technologies:</strong> Python, NetworkX, PyVis, Matplotlib</p>
-<p>Interactive graph algorithm visualizer focused on BFS, DFS, Topological Sort, Dijkstra’s Shortest Path, and Kruskal’s Minimum Spanning Tree.</p>
+<p>Interactive graph algorithm visualizer focused on BFS, DFS, Topological Sort, and Dijkstra’s Shortest Path.</p>
 </div>
 
 <div class="project-card">
