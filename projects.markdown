@@ -21,7 +21,7 @@ A collection of projects I’ve built while studying computer science, software 
 </div>
 
 <div class="project-card">
-<h3>NLP Classification Research</h3>
+<h3>[NLP Classification Research](https://datamine.purdue.edu/posters/6-DMR_S25_Poster_S-ISAC_Multi-Orbit-46x36-1.pdf)</h3>
 <p><strong>Technologies:</strong> Python, Pandas, Scikit-learn, Naive Bayes</p>
 <p>Built an NLP classification pipeline to distinguish natural versus malicious multi-orbit interference patterns.</p>
 </div>
