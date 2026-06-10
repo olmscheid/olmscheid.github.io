@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Depth First Search
-permalink: /learning/dfs.markdown
+permalink: /learning/dfs/
 ---
 
 Under construction!

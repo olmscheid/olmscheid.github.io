@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Topological Sort
-permalink: /learning/topological.markdown
+permalink: /learning/topological/
 ---
 
 Under construction!
