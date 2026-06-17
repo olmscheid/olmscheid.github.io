@@ -10,9 +10,12 @@ Learning Objectives
 -	Understand and explain what a breadth first search means in the context of graph theory and what some of the use cases are
 -	Understand and explain the time complexity of a BFS algorithm
 -	Ability to implement a simple BFS algorithm
+
+
 Plain Language Definition – A breadth first search is an algorithm that allows us to answer two questions:
 -	Is there a path from one node to another
 -	What is the shortest path between them
+
 
 Breadth First Search will travel a graph one layer at a time, exploring on a “first come first serve basis”. What this means is that unlike Depth First Search, the algorithm does not travel as far as it can go immediately. The way that it does this is storing nodes that it has discovered in a queue and following that queue in order until it finally either reaches what it is looking for or has explored the entire graph.
 When thinking about a Breadth First Search (BFS) algorithm, I ran across two very helpful analogies.
