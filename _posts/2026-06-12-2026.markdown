@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Weekly Update 3: Professional Development CU Boulder"
+date:   2026-06-0 16:27:00
+categories: blog post
+---
+
+I spent this week putting together my first Learning Series draft on Breadth First Search. I also started mapping out the framework for the program itself. My goal was to start connecting the written explanations with how the visualization tool might actually work.
+
+I decided on this framework for the Learning Series:
+
+Learning Objectives
+Plain Language Definition
+Analogy
+Key Terms
+Implementation Code
+
+I got a good start on the Learning Series draft, but I got a bit stuck / started focusing on the basics of graphs and what I thought the reader should know from a core understanding perspective. I think I need to focus more on the specific learning objectives for each algorithm and make sure that the content is focused on those objectives.
+
+The biggest impediment this week is unexpected work travel from Monday through Wednesday. Since I’ll be out of state for part of the week, I may have less time than usual to work on the project.
+
+Overall, I'm happy with the progress I've made this week on the learning series draft but feel like I need to focus more on the program structure and how the different components will fit together. I want to make sure that the learning series is closely tied to the visualization tool and that they complement each other well. Next week, I plan to continue working on the BFS Learning Series draft and start putting together a prototype for the BFS visualization.
+
