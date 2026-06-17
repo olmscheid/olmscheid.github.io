@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Weekly Update: Professional Development CU Boulder"
-date:   2026-05-30 17:42:21 -0600
+date:   2026-05-30
 categories: blog post
 ---
 Welcome! This is my first post as part of a Professional Development course at CU Boulder. I'll be giving a weekly update that follows the following format:

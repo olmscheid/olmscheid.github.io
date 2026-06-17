@@ -2,6 +2,7 @@
 layout: post
 title:  "Weekly Update 4: Professional Development CU Boulder"
 date:   2026-06-16
+categories: blog post
 ---
 
 This week I've been traveling for work and have not had as much time to work on the project as I would have liked. However, I did make some progress on the BFS learning series draft.
