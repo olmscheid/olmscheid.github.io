@@ -9,11 +9,11 @@ I spent this week putting together my first Learning Series draft on Breadth Fir
 
 I decided on this framework for the Learning Series:
 
-Learning Objectives
-Plain Language Definition
-Analogy
-Key Terms
-Implementation Code
+- Learning Objectives
+- Plain Language Definition
+- Analogy
+- Key Terms
+- Implementation Code
 
 I got a good start on the Learning Series draft, but I got a bit stuck / started focusing on the basics of graphs and what I thought the reader should know from a core understanding perspective. I think I need to focus more on the specific learning objectives for each algorithm and make sure that the content is focused on those objectives.
 
