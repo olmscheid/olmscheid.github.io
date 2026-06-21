@@ -43,7 +43,8 @@ The second example is that you want to find someone in your personal network who
 
 **BFS Implementation**
 
-```breadth_first_search(g: Graph, start: int): list:
+```
+breadth_first_search(g: Graph, start: int): list:
     seen: list = [False] * g.num_nodes
     last: list = [-1] * g.num_nodes
     pending: queue.Queue = queue.Queue()
