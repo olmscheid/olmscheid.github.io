@@ -28,7 +28,7 @@ The first example is to pretend you’re an adventurer who has discovered a new 
 
 
 
-[![BFS Order](/images/BFS_Order.jpg)]
+![BFS Order](/images/BFS_Order.jpg)
 
 
 **Degrees of Separation**
@@ -38,5 +38,5 @@ The second example is that you want to find someone in your personal network who
 
 
 
-[![Degrees of Separation](/images/BFS_Degrees.jpg)]
+![Degrees of Separation](/images/BFS_Degrees.jpg)
     
