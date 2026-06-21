@@ -5,7 +5,7 @@ permalink: /learning/bfs/
 
 ---
 
-Learning Objectives
+**Learning Objectives**
 
 -	Understand and explain what a breadth first search means in the context of graph theory and what some of the use cases are
 -	Understand and explain the time complexity of a BFS algorithm
