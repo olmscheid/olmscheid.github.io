@@ -5,11 +5,11 @@ date:   2026-06-16
 categories: blog post
 ---
 
-This week I've been traveling for work and have not had as much time to work on the project as I would have liked. However, I did make some progress on the BFS learning series draft.
+This week I’ve been traveling for work and have not had as much time to work on the project as I would have liked. However, I did make some progress on the BFS learning series draft.
 
-I also started putting togehter a prototype for the BFS visualtion. I realized that I need to spend some more time thinking about the structure of the program and how the different components will fit together. Most importantly, I want to make sure that the different algorithms are modular in terms of their implementation and how they connect to the visualization.
+I also started putting together a prototype for the BFS visualization. I realized that I need to spend some more time thinking about the structure of the program and how the different components will fit together. Most importantly, I want to make sure that the different algorithms are modular in terms of their implementation and how they connect to the visualization.
 
-I put together a draft of the visulation methods and how they will output the different states of the graph as the algorithm is running. I also started working on the code for the BFS implementation and how it will connect to the visualization.
+I put together a draft of the visualization methods and how they will output the different states of the graph as the algorithm is running. I also started working on the code for the BFS implementation and how it will connect to the visualization.
 
-Overall, I'm happy with the progress I've made this week given the circumstances. I think the biggest challenge will be making sure that I can stay on track and make consistent progress week by week, especially as I start to dive into the more complex algorithms. Next week, I plan to finish the BFS learning series draft and continue working on the BFS visualization prototype / start the DFS learning series draft.
+Overall, I’m happy with the progress I’ve made this week given the circumstances. I think the biggest challenge will be making sure that I can stay on track and make consistent progress week by week, especially as I start to dive into the more complex algorithms. Next week, I plan to finish the BFS learning series draft and continue working on the BFS visualization prototype / start the DFS learning series draft.
 
