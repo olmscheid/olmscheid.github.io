@@ -14,4 +14,4 @@ I’m currently working on a graph algorithm learning series and visualization t
 
 You can follow my progress through the blog, where I’ll post weekly updates, project notes, lessons learned, and reflections on the development process.
 
-[Read the Blog](/blog/)
+[Read the Blog](/blog.html)
