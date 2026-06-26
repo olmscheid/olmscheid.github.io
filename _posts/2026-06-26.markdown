@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Weekly Update 5: Professional Development CU Boulder"
+date:   2026-06-26
+categories: blog post
+---
+
+I continued working on the BFS learning series and made great progress on my MVP for the algorithm visualizer. The write-ups are actually taking a little longer than I anticipated. I have a feeling I’ll be continuing to tweak them as the semester continues to best present the insights I’m gaining. It’s easy to regurgitate the information I’m reading, but a little harder to produce a learning document that communicates the algorithm in a meaningful and original way. I have also been building out the core structure of the program alongside the learning material. I’ve been testing the BFS implementation and visualization methods, and I have a quasi-working prototype that I’m looking to polish so I can plug and play the different algorithms into the framework.
+
+I spent a lot of time thinking about how I want to structure the program and how the different modules will fit together. I went with the following:
+
+- A standard graph factory that produces the graph data structure
+- An algorithm module, unique for each algorithm, that takes in the graph and produces the output for visualization. It provides information for each step, including start, remove, visited node, inspected edge/node, add to queue, remove from queue, skip, finish, etc.
+- A visualization module that takes the output from the algorithm module and produces a static “step” that can be displayed
+- A visualization step controller that allows you to cycle through the various steps
+- A visualization render module that takes the current step and renders it to the screen
+- A main module that takes all the different pieces and runs the program
+
+This week, I plan to finish the BFS learning series and continue to work on the MVP. Specifically, I want to polish the BFS visualization and integrate it fully into the framework. I also have to do a refresher on Big O notation and the time complexity of BFS and other algorithms, as it has been a while since I’ve looked into Big O.
+
+I ran into some package issues when trying to get the visualization working. I also didn’t take into account the time it would take to re-learn the algorithms and type a coherent learning series. I’ve really enjoyed deep-diving not only into the algorithm itself, but also into how to communicate it in a way that is meaningful.
+
+I also completely didn’t take into account the Fourth of July holiday in my project plan and can safely call that week a wash in terms of meaningful progress, so I will adjust my project plan.
+
+
