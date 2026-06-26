@@ -27,7 +27,7 @@ A collection of projects I’ve built while studying computer science, software 
 </div>
 
 <div class="project-card">
-<h3>[Trie Crafting System](https://github.com/olmscheid/CSPB-2270-Text-Based-Crafting-System)</h3>
+<h3>Trie Crafting System</h3>
 <p><strong>Technologies:</strong> C++</p>
 <p>Created a crafting system using a Trie data structure for recipe lookup and an unordered map inventory system.</p>
 </div>
