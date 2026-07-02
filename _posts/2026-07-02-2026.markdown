@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Weekly Update 6: Professional Development CU Boulder"
+date:   2026-07-02
+categories: blog post
+---
+
+Professional Development Project Proposal Update
+Updated Project:
+My project originated from wanting to prepare for the upcoming Algorithms class that I intend to take in Fall 2026, while also producing a portfolio piece / personal website. I specifically chose to do Professional Development vs a full summer course due to bandwidth issues with work. The original project scope evolved into visualization tool which shows a step-by-step process of graph algorithms and a learning series to be posted on my personal website.
+
+Revised Goals:
+a.	Goal #1: Deep understanding of BFS, DFS, Dijkstra’s Algorithm and Topological Sort. 
+b.	Goal #2: Understanding will be showcased through a learning series of each algorithm on my personal webpage.
+c.	Goal #3: Interactive visualization app of BFS & DFS using NetworkX, Matplotlib, and ipywidgets. 
+d.	Stretch Goal: Dijkstra’s Algorithm and Topological Sort in the application.
+e.	Stretch Goal: Detailed Post on the Application Structure / Quasi-Learning Series Post on how the application is made.
+f.	Stretch Goals: Interactive Web Application.
+g.	Post-Semester: Refactor code to manual/custom functions for further depth.
+
+Revised Timeline:
+7/6	DFS Review and Learning Series Draft
+7/13	DFS Visualization Prototype
+7/20	Dijkstra’s Algorithm Learning Series
+7/27	Topological Sort Learning Series
+8/3	Website Integration, Cleanup, and Portfolio Preparation
+8/10	Final Testing, Reflection, and Submission
+
+I added three stretch goals which should be completed eventually regardless.  Work has thrown an unexpected project at me, so I’m trying to manage time and personal commitments appropriately. The modular design of the application will allow me to implement the other algorithm(s) much quicker than the first algorithm.
+Progress-to-date:
+-	Personal website
+-	Modular structure fleshed out
+-	Working terminal output of steps / image generation with matplotlib
+ 
+Above you can see an example output where A = Current Node, B = Queue, C = Discovered. The next step would add C into the queue and then it would traverse into C, etc.
+
+Reflections:
+-	Slow is smooth, smooth is fast. Slow and steady progress that builds upon each step is the most effective way (for me) to learn new concepts, build things out, and make progress. I don’t always practice this and it bites me every time.
+-	There’s a library or plugin for almost everything, working with NetworkX is fantastic and made the graph creation, traversal, etc. much easier. It also highlighted the importance of understanding what’s underneath the hood. I was imagining working through this without having done data structures and it made me want to document the project / update it without the libraries eventually.
+-	There is a learning curve to new libraries / tools but the right tools make all the difference in terms of ease of implementation.
+-	Modular design principles allow for easy replication. Thoughtful architecture design before you start coding is essential.
+
+
