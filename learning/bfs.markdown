@@ -67,5 +67,7 @@ breadth_first_search(g: Graph, start: int): list:
 
 Code Source:  Graph Algorithms The Fun Way by Jeremy Kubica
 
+**Time Complexity**
 
+BFS has a time complexity of O(V + E) where V is the number of vertices and E is the number of edges in the graph. This is because each vertex and edge will be explored at most once during the search process.
 

@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Weekly Update 7: Professional Development CU Boulder"
+date:   2026-07-16
+categories: blog post
+---
+
+No major update this week, but I am planning to make additional progress over the weekend. Earlier this week, I finished a draft implementation of Depth First Search, which went much more smoothly since the overall structure was already in place.
+
+This weekend, I plan to build out the DFS output which should be relatively straightforward given the existing framework. I also intend to enhance the output visualization by incorporating the Queue, Discovered, and Visited states into the matplotib images, based on feedback received last week. This should provide a clearer visual rather than text based which I have now.
+
+Looking ahead, one of the larger upcoming tasks will be updating the visualization code to support selecting between different algorithms, allowing the framework to be more flexible and scalable as additional algorithms are added.

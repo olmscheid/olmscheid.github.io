@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Weekly Update 7: Professional Development CU Boulder"
+date:   2026-07-08
+categories: blog post
+---
+
+The main focus this week was figuring out how to connect those pieces inside a JupyterLab notebook so I could move through the BFS process step by step.
+
+The learning curve with ipywidgets wasn’t steep per se, but it took some time to get correct. Thankfully, there are a lot of resources for getting a simple slideshow type widget created so I was able to build it out fairly quickly. I have some experience using Qt and found it to be a simpler version of that. 
+
+I also cleaned up the visualization itself. I replaced the NetworkX random spring layout with a fixed tree-style layout so the graph is easier to read and the nodes stay in the same position. 
+
+Now that I have the general framework done, I’m moving on (finally) to DFS learning series and implementation.
