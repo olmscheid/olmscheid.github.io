@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Weekly Update 7: Professional Development CU Boulder"
+title:  "Weekly Update 8: Professional Development CU Boulder"
 date:   2026-07-16
 categories: blog post
 ---
