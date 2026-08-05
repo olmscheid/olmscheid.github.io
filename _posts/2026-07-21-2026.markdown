@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Weekly Update 9: Professional Development CU Boulder"
+date:   2026-07-21
+categories: blog post
+---
+
+I was able to implement my DFS algorithm fairly easily using the structure I already had in place. One thing I had to figure out was how to standardize the outputs for both algorithms, so I modified them slightly to be more generic across BFS and DFS (stack or queue, visited nodes, and predecessor map). I also updated my visualization function from being strictly for BFS to a combined method. Adding a dropdown menu to choose the algorithm was also fairly simple after spending the last few weeks learning how to create buttons.
+
+One fun thing I’ve been doing on the side is setting up a homelab in my house using an old ThinkCentre Mini and upgrading my network to support hardwired connections. I installed Linux on the ThinkCentre, set up remote access through SSH, and configured it to store my projects. I’m looking forward to experimenting with Docker and Gitea and adding the homelab to my list of personal projects as well.
+
+From an MVP standpoint, the key parts of the project that remain are the final two algorithms in the learning series: Dijkstra’s algorithm and topological sort. I’d like to implement both of those while also figuring out how to host a non-JupyterLab version of the visualizer on my website.
