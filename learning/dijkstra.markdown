@@ -37,6 +37,8 @@ You then choose the room with the lowest total cost from the entrance, not neces
 
 Each time you reach a room, you check whether it gives you a cheaper route to any neighboring rooms. If it does, you erase the old cost, write down the new one, and record which room you came from. That recorded connection becomes part of the current shortest path. Once you select the lowest cost room from your priority queue, its shortest distance is finalized and you continue the process.
 
+![Dijkstra's Algorithm](/images/dijkstra.jpg)
+
 **Time Complexity**
 
 This implementation of Dijkstra's algorithm has a time complexity of O((V + E) log V), where V is the number of vertices and E is the number of edges in the graph. This is commonly shortened to O(E log V) for a connected graph.
