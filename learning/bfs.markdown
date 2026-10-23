@@ -23,9 +23,9 @@ When thinking about a Breadth First Search (BFS) algorithm, I ran across two ver
 
 **The Methodical Dungeon Crawler**
 
+The first example is to pretend you’re an adventurer who has discovered a new cave consisting of many different connected rooms. You want to methodically map out the dungeon so that you explore the cave from closest to the entrance to farthest from the entrance. You don’t want to venture too far with unexplored rooms behind you. You do this by exploring rooms in the order that you discover them.
 
-The first example is to pretend you’re an adventurer who has discovered a new cave consisting of many different connected rooms. You want to methodically map out the dungeon so that you explore the cave from closest to the entrance to farthest from the entrance. You don’t want to venture too far with unexplored rooms behind you. You do this by exploring rooms in the order that you discover them. If you walk into the cave and there are 3 rooms, you explore room #1 first. If there are more rooms that branch out from room #1, you put those on your list to explore but first backtrack and explore room #2 and repeat. After you explore Room #2 and #3, you would then begin exploring the rooms that branched out from Room #1, adding to the list of rooms you explore but following the order of discovery.
-
+You enter the cave in Room #1. From there, you see passages to Rooms #2 and #3, so you add both to your list. You explore Room #2 first and find passages to Rooms #4 and #5. You add those to the end of your list, but you don’t go there yet. Room #3 was discovered first, so you backtrack and explore it next, which adds Room #6. Only then do you move on to Rooms #4, #5, and #6, in the order you found them. Room #4 leads to Room #7, which goes on the end of the list and is explored last.
 
 
 ![BFS Order](/images/BFS_Order.jpg)
